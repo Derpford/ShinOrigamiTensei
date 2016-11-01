@@ -1,0 +1,73 @@
+* Demons and their uses
+Various Demons appear throughout Shin Origami Tensei. The only thing common
+among them is their habitat, the souls of Sinners, and a single element of
+their appearance--namely, the fact that all Demons appear as if they are
+wrought of paper, moving like cut-out dolls pasted on the surface of reality.
+Below is a list of some of the Demons that you may use in your adventures.
+This list is, naturally, spoilers. Don't read it unless you are a GM or you
+like to cheat at video games. They are sorted according to their weakness for
+ease of use in encounter design.
+
+
+
+* Demons of Base Needs (Weak to Physical)
+- Deadly Smile: 1 HP, A:Nil, W:Nil. A collection of symbols on spinning
+  rings.
+  [Charge Up]: Add 1 Charge counter to the Deadly Smile.
+  [Power Overload]: Destroy all Deadly Smiles. If there were at least 5
+  Charge counters across all Demons, create one Accusing Grin(Lightning).
+- Lustful Knight: 2 HP, A:Phys, W:Phys. A leather-bound creature with a thick
+  club.
+  [Thrust]: 1 Physical damage to a target.
+- Hunger: 3 HP, A:Fire, W:Phys. A figure whose belly has been chewed away.
+  [Driven to Violence]: 1 Fire damage and Manic to a target.
+* Demons of Emotional Turmoil (Weak to Fire)
+- Road Warrior: 2 HP, A:Fire, W:Fire. A thing armored with rubber, holding a
+  molotov cocktail.
+  [Molotov]: 1 Fire damage to all enemies.
+- Mighty Need: 3 HP, A:Fire, W:Fire. A massive black stallion with hunger in
+  its eyes.
+  [Trample]: 0 Fire damage to all enemies.
+  [Pressure]: Inflicts Depression on a target.
+- Dullahan: 2 HP, A:Ice, W:Fire. The upper half of a woman, nailed to a
+  picture frame.
+  [Dichotomy]: 1 Ice damage to 2 targets.
+
+* Demons of Practical Failure (Weak to Ice)
+- High Spirit: 2 HP, A:Ice, W:Ice. A ghost with a paper lantern glowing
+  green.
+  [Healing Fumes]: Heal a Demon for 1 HP.
+- Blind Judgement: 4 HP, A:Ice, W:Ice. A suit of scarred armor, the helmet
+  wrapped in a black strip of cloth.
+  [Chilling Conclusion]: 1 Ice damage to a target.
+  [Unerring Misstep]: Target is Mirrored.
+* Demons of False Logic (Weak to Lightning)
+- Accusing Grin: 5 HP, A:Fire, W:Lightning. A massive, toothy smile scrawled
+  across a white globe.
+  [Painful Rebuttal]: 2 Physical damage.
+  [Conspiracy]: When Accusing Grin takes damage, summon 1 Deadly Smile.
+- Conductive: 3 HP, A:Nature, W:Lightning. A scrawny, hunched-over thing
+  wearing a blank white mask and waving a neon rod.
+  [Band, Together]: Must be activated on the Mainbeat; all Demons gain
+  Unison.
+  [Very Painful]: If Conductive takes damage, its mask falls off, revealing a
+  gorilla's face. It also gains True Aim.
+  [Baton Strike]: 1 Nature damage to 1 target.
+* Demons of Isolation (Weak to Nature)
+- Constricted: 2HP, A:Nature, W:Nature. A body hanging from a noose. The rope
+  disappears into the sky.
+  [Lockdown]: Target Demon may not attack until Constricted is stunned or
+  killed. Constricted may only use Lockdown on a single Demon at a time.
+- Garagewulf: 3 HP, A:Fire, W:Nature. The upper half of a wolf, joined to the
+  lower half of some form of tribal art.
+  [Paranoia Rush]: 1 Fire damage.
+  [Spin Bias]: Target is afflicted with Half Time.
+- Freak with a Leash: 3 HP, A:Phys, W:Nature. Another leatherbound Demon,
+  this one wielding a whip-like collar and leash.
+  [One More]: 0 Physical damage to target Demon or Ally.
+  [Kornered]: Inflicts target with Bent (Physical>Fire). 
+* Demons of the Many (Weak to Multiple)
+- Statuesque: 4 HP, A:Ice, W:Phys
+  [Carved]: Upon being Stunned, if Carved has not activated yet, remove
+  Stunned and change Statuesque's Weakness to Lightning.
+  [Suplex]: Must be activated on the Mainbeat. 2 Ice damage to target.
