@@ -41,6 +41,10 @@ ease of use in encounter design.
   wrapped in a black strip of cloth.
   [Chilling Conclusion]: 1 Ice damage to a target.
   [Unerring Misstep]: Target is Mirrored.
+- Starving Artist: 2 HP, A:Lightning, W:Ice. A pixie wielding a
+  larger-than-life brush.
+  [Prismatic Swipe]: 1 Lightning damage to a target.
+  [Lament of Pigment]: Target becomes Depressed.
 * Demons of False Logic (Weak to Lightning)
 - Accusing Grin: 5 HP, A:Fire, W:Lightning. A massive, toothy smile scrawled
   across a white globe.
@@ -64,7 +68,7 @@ ease of use in encounter design.
   [Spin Bias]: Target is afflicted with Half Time.
 - Freak with a Leash: 3 HP, A:Phys, W:Nature. Another leatherbound Demon,
   this one wielding a whip-like collar and leash.
-  [One More]: 0 Physical damage to target Demon or Ally.
+  [One More]: 0 Physical damage to target Demon or enemy.
   [Kornered]: Inflicts target with Bent (Physical>Fire). 
 * Demons of the Many (Weak to Multiple)
 - Statuesque: 4 HP, A:Ice, W:Phys
