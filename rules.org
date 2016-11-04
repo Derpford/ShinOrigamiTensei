@@ -218,3 +218,53 @@ things:
   Support-Groove triggers when one of your Passive abilities takes effect.
   You immediately gain 1 extra Meter.
 
+** Weapons, Items, and Safe Rooms
+*** Items
+Throughout your travels, you may come across various objects of importance.
+Items fall into three categories:
+- Weapons, which are unique to each character, and affect their Basic Attack;
+- Consumables, which are used once for a certain effect;
+- and Materials, which can be combined to make Consumables.
+**** Weapons
+Weapons are fairly rare, and are often given out as rewards for special
+quests or clever puzzle solving. They are not physical weapons--the world of
+the soul is beyond physical, and buying a new sword or a better gun has no
+effect on your fighting power. Rather, a weapon represents the ability to
+meet challenges in a new way, thanks to some realization or the end of an
+internal struggle. Your GM will help you make new weapons when you earn them.
+Common things a Weapon can do is allow you to do elemental damage with your
+basic attack, or forgo damage for a debuff. Like your abilities, the limit is
+up to you and your GM.
+**** Consumables
+Consumables range from healing items to one-shot weapons or status-effect
+removing medicines. Consumables are fairly rare, and you're more likely to
+make some of your own than you are to find them.
+A few common Consumables include:
+- Molotov (1 Fire damage to all targets)
+- Healing Bandage (1 Heal to one ally)
+- Lightning Rod (1 Lightning damage to 1 target)
+**** Materials
+Materials come in five varieties: Plates, Rods, Orbs, Cones, and Chunks. Each
+one drops from enemies weak to a different type of damage. Further, Materials
+can come in different qualities. Consult your GM to find out what different
+materials make.
+- Plates drop from enemies that are weak to Fire.
+- Orbs drop from enemies that are weak to Ice.
+- Rods drop from enemies that are weak to Lightning.
+- Cones drop from enemies that are weak to Nature.
+- Chunks are dropped by enemies that are weak to Physical.
+
+A few examples of different qualities of Materials:
+- Low Quality: Wood, Stone, Glass
+- Mid Quality: Neon, Metal, Meat
+- High Quality: Gold, Plasma, Obsidian
+ 
+*** Safe Rooms
+In certain areas of the horrific mazes you travel through, the GM may inform
+you that you 'feel relatively safe' in this area, or that there seem to be
+fewer Demons. He may even outright tell you that the room you're in is a
+[Safe Room].
+In a Safe Room, you may switch your weapons and party members freely. While
+in a Safe Room, you will not be attacked by Demons. Be wary of enemies that
+may not be demonic in nature.
+
