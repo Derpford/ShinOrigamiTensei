@@ -13,7 +13,7 @@ ease of use in encounter design.
 * Demons of Base Needs (Weak to Physical)
 - Deadly Smile: 1 HP, A:Nil, W:Nil. A collection of symbols on spinning
   rings.
-  [Charge Up]: Add 1 Charge counter to the Deadly Smile.
+  [Charge Up]: Each Backbeat, add 1 Charge counter to the Deadly Smile.
   [Power Overload]: Destroy all Deadly Smiles. If there were at least 5
   Charge counters across all Demons, create one Accusing Grin(Lightning).
 - Lustful Knight: 2 HP, A:Phys, W:Phys. A leather-bound creature with a thick
