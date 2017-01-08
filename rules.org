@@ -45,11 +45,9 @@ has the following important figures:
   stats. Note that Abilities that increase your HP, boost your Basic Attack,
   or improve your Guard are very powerful, and your GM may not allow an
   ability that provides a flat boost to these stats. 
-- One free Link Point. Link Points are discussed in further detail in the
-  chapter on Progression.
-- One [Target Ability] or [Next Ability], listed alongside your two main
-  Abilities and marked with a certain number of tally marks. See the chapter
-  on Progression to learn more.
+- If your GM allows it, one free Link Point. Link Points are discussed in 
+  further detail in the chapter on Progression.
+- A Social Rank of 1. Social Rank is detailed in the chapter on Progression.
 
 You may want to coordinate with your party to create Abilities and choose
 Affinities and Weaknesses. Although your characters may not know each other,
@@ -155,27 +153,14 @@ Links do multiple things.
   you have a Link with attack the same target with an Ability or Basic
   Attack.
 - Most importantly, Links count toward your next Ability.
-*** Your "Next Ability"
-During character creation, you picked a 'Next Ability'. This is the ability
-your Sinner is currently working toward. You will acquire this ability when
-you gain a number of new Links, depending on how powerful the ability is.
-This is called the Ability's [Requirement]. This is represented by a set of
-tally marks next to your Ability. Some examples of what a Requirement can be:
-- An Active Ability that deals 1-2 elemental damage to one or two targets, or
-  a Passive that provides a damage boost if you meet specific conditions,
-  might only have a 1 Link Requirement.
-- An Active Ability that deals 3-4 damage, hits many targets, or heals one of
-  your teammates, or a Passive that gives you additional HP or grants bonuses
-  to many of your attacks, could have a 2 Link Requirement.
-- An Active Ability that could easily destroy many smaller monsters or heal
-  the entire party, or a Passive that reduces incoming damage or heals you
-  upon a successful Stun or Kill, can have a Requirement of 3 or even 4
-  Links.
-
-As you gain Links, you may erase tally marks next to the Ability. Upon
-erasing the last mark, you may begin using the Ability. Choose a new 'Next
-Ability' soon, because Links can only count toward your current 'Next
-Ability'--if you don't have one, then your new Links won't do anything.
+*** New Abilities
+During the course of your adventure, each Sinner will grow as a person, and will gain new powers.
+Your character starts at Social Rank 1. For each new Link you gain, you add to your Social Rank.
+You will gain new abilities at Social Ranks 2, 3, 5, and 8. Beyond that, refer to your GM; he may decide that you're capped at six abilities, or that you may gain additional ones.
+When gaining a new Ability, bear these things in mind:
+- Abilities that work with each other are useful. If you have an ability that causes enemies to gain some form of token, you may want your new ability to interact with that token in some way.
+- If you already have several abilities that cost only a couple of points of Meter, you may want to gain an ability that costs more but hits harder. Similarly, if you've got several abilities that require large Meter usage, you may want something that can be used early in the battle.
+- Passive abilities can be very useful, and at later stages of the game your GM may allow you to take direct stat increases like bonus HP or damage. You will probably want one or two passives to complement your active abilities.
 *** Fusion
 You gain new abilities by forming new Links; however, you can also improve
 old Links. When you spend a Link Point on a character you already have an
