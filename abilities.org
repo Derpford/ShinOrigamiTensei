@@ -1,0 +1,63 @@
+Abilities are the core of character sheets in Burnt Paper Soul, and they can be created (mostly) without the GM's assistance, through this set of simple rules.
+
+* Active Abilities
+Active abilities have a *cost*. This cost is determined by what the ability does, as follows:
+** Target
+- Single Target: +0 points
+- Multi Target, Conditional (i.e., "all of the same type"): +2 points
+- All Target (i.e., "all enemies"): +4 points
+** Damage
+- Physical Damage: +1 point per point of damage
+- Elemental Damage: +1, and an additional +1 per point of damage 
+** Buffs/Debuffs
+- Adding an effect to a target: +2 points, +1 per additional turn
+** Conditionals
+- Add a token to targets: +1 point
+- If: Reduce cost of all things affected by an "If"
+  statement by 1/2 
+- X: The cost of an X is equal to 2 of whatever it would've replaced (i.e.,
+  "Deal X damage" is treated as "Deal 2 Damage" for costs)
+** Healing
+- Healing: +1, and an additional +1 per health regained
+
+* A note on If and X
+One of the most important parts of this system is the *"If"*. If is a
+powerful tool, which allows you to trade general usage of an ability 
+for lower cost (or higher damage). A simple example would be this ability:
+- Power Attack: Deal 1 Elemental damage to a target. If the target is Knocked Down, deal 2
+  Elemental damage to it.
+The first part of the ability is a standard ability; it does 1 damage, of an
+elemental type, to one target. It would cost two Meter to cast, if it stopped
+there. However, the part immediately following "If" is *conditional*--it only
+happens "If the target is Knocked Down".
+
+*Everything within that sentence costs half as much as it would otherwise.*
+
+Thus, the ability costs 3 Meter to cast--2 for the first part, and (2 divided
+by 2) 1 for the second part. However, the second part only triggers if the
+target is knocked down, so the ability is less useful against targets who
+haven't been knocked down.
+
+This becomes far more useful when you introduce Tokens. Consider this
+ability:
+- Road Flare: Add a Mark token to a target.
+It costs 1 Meter and does nothing on its own. Now consider this other
+ability:
+- Artillery: Deal 1 Elemental damage to all targets which have a Mark token.
+It costs 4 Meter (2 for multi target on a condition, 2 for Elemental damage), 
+where an ability that just targets all and hits for 1 damage would cost 6 Meter 
+(4 for all target, 2 for Elemental damage). By offloading the extra cost onto a token ability,
+you get a cheaper version of a powerful ability (at the cost of an extra slot).
+
+One final thing to consider: Using an X in your ability. You'll notice that
+in the above rules, things with X in them are treated as if you replaced the
+X with a 2. But in combat, you can replace X with anything you can count, by
+adding the line "Where X is equal to (thing to replace X with)":
+- Against the Odds: Deal X Elemental damage to one target, where X is the
+  amount of damage you've taken
+- Lightning Rod: Deal X Elemental damage to one target, where X is the number
+  of Charge tokens they have.
+- Lingering Will: Add X turns of Depression to one target, where X is the
+  number of Willpower tokens you have.
+By combining Tokens, Ifs, and Xs, you can create a wide variety of abilities
+that are specialized and unique.
