@@ -38,13 +38,12 @@ has the following important figures:
   requires Meter to use (see the Combat section) or a [Passive Ability] which
   requires that certain conditions be met. Work with your GM to create a set
   of Abilities that fit your play style and role.
-- Three [Hit Points], a [Basic Attack] that deals 1 Physical damage, and the
-  ability to [Guard] and reduce incoming damage. All characters are able to
-  do this, and unless otherwise stated by a passive Ability or a Weapon (see
-  the chapter on Progression), this is the limit of your character's base
-  stats. Note that Abilities that increase your HP, boost your Basic Attack,
-  or improve your Guard are very powerful, and your GM may not allow an
-  ability that provides a flat boost to these stats. 
+- Three [Hit Points],  and a [Basic Attack] that deals 1 Physical damage.
+  All characters are able to do this, and unless otherwise stated by a passive
+  Ability or a Weapon (see the chapter on Progression), this is the limit of 
+  your character's base stats. Note that Abilities that increase your HP, boost
+  your Basic Attack, or improve your Guard are very powerful, and your GM may 
+  not allow an ability that provides a flat boost to these stats. 
 - If your GM allows it, one free Link Point. Link Points are discussed in 
   further detail in the chapter on Progression.
 - A Social Rank of 1. Social Rank is detailed in the chapter on Progression.
@@ -68,7 +67,7 @@ gain Meter, and you can 'tap' Meter to activate abilities. However, the Meter
 is shared by the party; coordination and tactical decisions are key.
 *** Verses, the Mainbeat, and the Backbeat
 A battle consists of multiple "Verses", each one containing a wave of Demons.
-Within each Verse, you will alternate between the 'Mainbeat', in which most
+Within each Verse, you will alternate between the 'Mainbeat', in which all
 of your Sinner's actions will take place, and the 'Backbeat', in which one
 or more Demons may attack. Some Demon abilities activate during the Mainbeat,
 and some Sinner abilities may trigger in the Backbeat.
@@ -77,7 +76,7 @@ On the Mainbeat, Sinners may act in any order. It is recommended that you
 discuss among yourselves to choose a turn order, as it can be important.
 When your Sinner acts, he or she may:
 - Perform a Basic Attack. Unless modified by a Weapon or Ability, it deals 1
-  Physical damage to 1 target.
+  Physical damage to 1 target and costs 1 Meter.
 - Use an Ability. This may require you to 'tap' a certain amount of Meter.
   The party as a whole may only tap an amount of Meter up to the Meter's
   current maximum each turn; however, the Meter is replenished to its maximum
@@ -85,9 +84,9 @@ When your Sinner acts, he or she may:
 - Make use of an Item. Some enemies will drop special items which can heal
   your Sinners, change status effects, or even deal elemental damage, but all
   of these are one-time-use only.
-- Brace for attacks by Guarding. When you are Guarding, you will take a
-  maximum of 1 damage for the entire turn, and cannot be stunned. If every
-  Sinner is Guarding, all damage is prevented.
+- Choose to end the turn. If all Sinners decide to end the turn, then the turn
+  is over. Any leftover meter is tapped to prevent damage, at a rate of 1 point
+  of damage per meter.
 - Declare an intent to use Fusion. Fusion requires the cooperation of another
   Sinner, and is very powerful. See the chapter on Progression for more
   details.
@@ -106,9 +105,9 @@ When you cause damage to a Demon, there are two things to keep in mind: how
 much damage was dealt, and what kind of damage it was.
 Each Demon has a Weakness to one of the five elements. If that Demon takes
 damage of that elemental type, that Demon is [Stunned]. It won't be able to
-act until it is struck with a type of damage that does not match its
-elemental type. Note that even attacks that deal 0 damage cause this to
-happen! A zero-damage attack can be useful as a cheap way to Stun a target.
+act, *until* it is hit with another attack which does not match its weakness.
+Note that even attacks that deal 0 damage cause this to happen! A zero-damage 
+attack can be useful as a cheap way to Stun a target.
 When a Demon is Stunned, you will gain one point of Meter.
 You, too, can be Stunned. However, unlike the Demons, a Sinner will lose the
 Stun effect after one turn.
@@ -119,12 +118,12 @@ If a Sinner is reduced to 0 HP, they are knocked unconscious. Abilities or
 items that heal them will increase their HP, but they will remain unconscious
 until they return to their maximum HP.An unconscious Sinner cannot do
 anything.
-Both Sinners and Demons who are stunned take double damage from all sources.
+
 *** Breakdowns
 When all Demons in the current Verse are stunned, a [Breakdown] automatically
 occurs. During a Breakdown, all Sinners charge forth and deliver an
 incredibly large can of whoop-ass to the helpless Demons before them. A
-Breakdown causes all Demons (save for the most powerful among them) to be
+Breakdown causes all Demons (save for especially strong "Boss" demons) to be
 destroyed.
 
 *** Victory
@@ -139,7 +138,7 @@ single Link Point.
 ** Progression
 *** Link Points
 As you make your way through the labyrinthine worlds of the Sinners' Souls,
-you will gain [Link Points]. Link Points, or LP, represent the camearaderie
+you will gain [Link Points]. Link Points, or LP, represent the camaraderie
 that you and your friends build up as you battle each others' Demons.
 At any time outside of a Soul, or while inside a Soul at a 'Safe Room', you
 may declare that you are spending a Link Point on another player character or
