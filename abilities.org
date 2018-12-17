@@ -3,12 +3,12 @@ Abilities are the core of character sheets in Burnt Paper Soul, and they can be 
 * Active Abilities
 Active abilities have a *cost*. This cost is determined by what the ability does, as follows:
 ** Target
-- Single Target: +0 points
-- Multi Target, Conditional (i.e., "all of the same type"): +2 points
-- All Target (i.e., "all enemies"): +4 points
+- Single Target: x1 (base cost)
+- Multi Target, Conditional (i.e., "One of each type of enemy" or "All enemies which have a ____ token"): x2 points
+- All Target (i.e., "all enemies"): x3 points
 ** Damage
-- Physical Damage: +1 point per point of damage
-- Elemental Damage: +1, and an additional +1 per point of damage 
+- Damage: +1 point per point of damage
+- Elemental Type (other than Physical): +1
 ** Buffs/Debuffs
 - Adding an effect to a target: +2 points, +1 per additional turn
 ** Conditionals
@@ -44,7 +44,7 @@ ability:
 It costs 1 Meter and does nothing on its own. Now consider this other
 ability:
 - Artillery: Deal 1 Elemental damage to all targets which have a Mark token.
-It costs 4 Meter (2 for multi target on a condition, 2 for Elemental damage), 
+It costs 4 Meter (2 for Elemental damage, times 2 for multi-target on a condition.), 
 where an ability that just targets all and hits for 1 damage would cost 6 Meter 
 (4 for all target, 2 for Elemental damage). By offloading the extra cost onto a token ability,
 you get a cheaper version of a powerful ability (at the cost of an extra slot).
