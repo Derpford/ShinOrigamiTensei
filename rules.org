@@ -155,11 +155,16 @@ Links do multiple things.
 *** New Abilities
 During the course of your adventure, each Sinner will grow as a person, and will gain new powers.
 Your character starts at Social Rank 1. For each new Link you gain, you add to your Social Rank.
-You will gain new abilities at Social Ranks 2, 3, 5, and 8. Beyond that, refer to your GM; he may decide that you're capped at six abilities, or that you may gain additional ones.
+You will gain new abilities at Social Ranks 2, 3, 5, and 8. Beyond that, refer 
+to your GM; he may decide that you're capped at six abilities, or that you may gain additional ones.
 When gaining a new Ability, bear these things in mind:
-- Abilities that work with each other are useful. If you have an ability that causes enemies to gain some form of token, you may want your new ability to interact with that token in some way.
-- If you already have several abilities that cost only a couple of points of Meter, you may want to gain an ability that costs more but hits harder. Similarly, if you've got several abilities that require large Meter usage, you may want something that can be used early in the battle.
-- Passive abilities can be very useful, and at later stages of the game your GM may allow you to take direct stat increases like bonus HP or damage. You will probably want one or two passives to complement your active abilities.
+- Abilities that work with each other are useful. If you have an ability that causes enemies
+  to gain some form of token, you may want your new ability to interact with that token in some way.
+- If you already have several abilities that cost only a couple of points of Meter, you may 
+  want to gain an ability that costs more but hits harder. Similarly, if you've got several 
+  abilities that require large Meter usage, you may want something that can be used early in the battle.
+- Passive abilities can be very useful, and at later stages of the game your GM may allow you to 
+  take direct stat increases like bonus HP or damage. You will probably want one or two passives to complement your active abilities.
 *** Fusion
 You gain new abilities by forming new Links; however, you can also improve
 old Links. When you spend a Link Point on a character you already have an
@@ -194,13 +199,11 @@ things:
   an ability that would require two Links to gain normally.
 - They also gain a 'Groove', a special power that activates when certain
   conditions are met. There are three kinds of Grooves: Attack-Groove,
-  Defense-Groove, and Support-Groove.
-  Attack-Groove triggers when you kill an enemy. You may immediately grant
-  one ally an extra turn.
-  Defense-Groove triggers when you Guard and receive damage without being
-  reduced to 0 HP. You may take an extra turn in the next Mainbeat.
+  Defense-Groove, and Support-Groove. Each one grants you an additional
+  point of Meter under certain conditions:
+  Attack-Groove triggers when you kill an enemy.
+  Defense-Groove triggers when you use at least 1 Meter to reduce incoming damage.
   Support-Groove triggers when one of your Passive abilities takes effect.
-  You immediately gain 1 extra Meter.
 
 ** Weapons, Items, and Safe Rooms
 *** Items
@@ -218,14 +221,15 @@ meet challenges in a new way, thanks to some realization or the end of an
 internal struggle. Your GM will help you make new weapons when you earn them.
 Common things a Weapon can do is allow you to do elemental damage with your
 basic attack, or forgo damage for a debuff. Like your abilities, the limit is
-up to you and your GM.
+up to you and your GM. Note that weapons can do elemental damage that you
+would otherwise be unable to use.
 **** Consumables
 Consumables range from healing items to one-shot weapons or status-effect
 removing medicines. Consumables are fairly rare, and you're more likely to
 make some of your own than you are to find them.
 A few common Consumables include:
 - Molotov (1 Fire damage to all targets)
-- Healing Bandage (1 Heal to one ally)
+- Healing Symbol (1 Heal to one ally)
 - Lightning Rod (1 Lightning damage to 1 target)
 **** Materials
 Materials come in five varieties: Plates, Rods, Orbs, Cones, and Chunks. Each
