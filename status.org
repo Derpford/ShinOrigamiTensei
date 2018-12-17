@@ -4,21 +4,20 @@ Passive abilities, causing strange things to happen. A list of Status Effects
 follows.
 
 ** Positive Effects
-- Regenerate: A powerful ability that causes the target to gain 1 HP each
-  Mainbeat.
+- Regenerate: The target gains 1 HP each time they use an Ability or Basic Attack.
 - True Aim: Whenever the target uses an Ability, they deal 1
   additional Physical damage to their target.
 - Power Swing: Whenever the target uses a Basic Attack, they deal 1
   additional Physical damage to their target.
-- Unison: Target will act on its next turn, regardless of whether or not any
-  other Demons have acted.
+- Unison: Target may use one 3-meter-or-less ability without spending meter.
 ** Negative Effects
 - Depressed: Any time the target taps Meter, they tap 1 additional point of
   Meter.
 - Mirrored: Any time the target deals damage, he/she also deals the same
   damage to his/herself.
-- Guard Break: When the target Guards, they instead are Stunned.
+- Guard Break: If the target prevents damage with leftover meter, they are stunned.
 - Half Time: The target may only act every other turn.
+- Stunned: Target may not act.
 ** Strange Effects
 - Offset: Target must take their turn on the Backbeat. They may only use
   abilities that trigger and activate on the same beat.
