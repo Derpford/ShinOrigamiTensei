@@ -10,7 +10,11 @@ Active abilities have a *cost*. This cost is determined by what the ability does
 - Damage: +1 point per point of damage
 - Elemental Type (other than Physical): +1
 ** Buffs/Debuffs
-- Adding an effect to a target: +2 points, +1 per additional turn
+- Adding a positive effect to a friendly target: +2 points, +1 per additional turn
+- Adding a negative effect to an enemy target: +2 points, +1 per additional turn
+- Adding a positive effect to an enemy target: -1 points, -1 per additional turn
+- Adding a negative effect to yourself: -1 points, -1 per additional turn
+- Adding a Strange effect to any target: +1 points, +1 per additional turn
 ** Conditionals
 - Add a token to targets: +1 point
 - If: Reduce cost of all things affected by an "If"
@@ -19,6 +23,10 @@ Active abilities have a *cost*. This cost is determined by what the ability does
   "Deal X damage" is treated as "Deal 2 Damage" for costs)
 ** Healing
 - Healing: +1, and an additional +1 per health regained
+** Self-Damage
+- Damage Self: -1 per point of damage
+- Take damage equal to your HP minus 1: -3
+- KO Self: 1/4 cost
 
 * A note on If and X
 One of the most important parts of this system is the *"If"*. If is a
