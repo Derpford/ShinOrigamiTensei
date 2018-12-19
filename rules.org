@@ -29,11 +29,16 @@ has the following important figures:
   Nature, and Physical. All characters can use Physical damage in their basic
   attack, but your special attacks often use your Affinity's damage type.
   Physical is not a recommended Affinity, but you can choose it; again, talk
-  to your GM about it. He may offer some kind of advantage in exchange.
+  to your GM about it. If he agrees, you will reduce the cost of all Abilities
+  by one (see abilities.org for rules on creating abilities).
 - An [Elemental Weakness]. Each character and Demon has a Weakness to one
   of the five elements. When struck by damage of the type it is weak to, a
   Demon will be stunned; similarly, a Sinner struck by damage they are weak
-  to will be unable to act in their next turn.
+  to will be unable to act in their next turn. All Demons, like all players,
+  can use a Basic Attack which does 1 Physical damage; for this reason,
+  taking Physical as a weakness is even more dangerous than taking it as
+  an affinity. If you do so, however, and the GM consents, then you will gain
+  an improved Basic Attack which does 2 damage for 1 Meter.
 - Two [Abilities]. An Ability can either be an [Active Ability] which
   requires Meter to use (see the Combat section) or a [Passive Ability] which
   requires that certain conditions be met. Work with your GM to create a set
