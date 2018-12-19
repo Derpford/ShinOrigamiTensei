@@ -2,10 +2,6 @@ Abilities are the core of character sheets in Burnt Paper Soul, and they can be 
 
 * Active Abilities
 Active abilities have a *cost*. This cost is determined by what the ability does, as follows:
-** Target
-- Single Target: x1 (base cost)
-- Multi Target, Conditional (i.e., "One of each type of enemy" or "All enemies which have a ____ token"): x2 points
-- All Target (i.e., "all enemies"): x3 points
 ** Damage
 - Damage: +1 point per point of damage
 - Elemental Type (other than Physical): +1
@@ -27,6 +23,10 @@ Active abilities have a *cost*. This cost is determined by what the ability does
 - Damage Self: -1 per point of damage
 - Take damage equal to your HP minus 1: -3
 - KO Self: 1/4 cost
+** Target
+- Single Target: x1 (base cost)
+- Multi Target, Conditional (i.e., "One of each type of enemy" or "All enemies which have a ____ token"): x2 points
+- All Target (i.e., "all enemies"): x3 points
 
 * A note on If and X
 One of the most important parts of this system is the *"If"*. If is a
