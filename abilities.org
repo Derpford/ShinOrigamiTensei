@@ -28,6 +28,10 @@ Active abilities have a *cost*. This cost is determined by what the ability does
 - Multi Target, Conditional (i.e., "One of each type of enemy" or "All enemies which have a ____ token"): x2 points
 - All Target (i.e., "all enemies"): x3 points
 
+Any multiplier or divider is applied at the *end* of cost calculations, after all addition and subtraction.
+For instance, an ability which does 3 Elemental damage (+4), self-inflicting Guard Break for 1 turn (-2), 
+and hits all enemies (x3) would have a cost equal to (4-2)*3, or 6 Meter. Abilities always have a cost of at least 1.
+
 * A note on If and X
 One of the most important parts of this system is the *"If"*. If is a
 powerful tool, which allows you to trade general usage of an ability 
