@@ -116,8 +116,7 @@ When a Demon is Stunned, you will gain one point of Meter.
 You, too, can be Stunned. However, unlike the Demons, a Sinner will lose the
 Stun effect after one turn.
 If a Demon takes a certain amount of damage, it will be destroyed; naturally,
-it won't be able to act, or be targeted by Abilities. When a Demon is
-destroyed, you will gain one point of Meter.
+it won't be able to act, or be targeted by Abilities. 
 If a Sinner is reduced to 0 HP, they are knocked unconscious. Abilities or
 items that heal them will increase their HP, but they will remain unconscious
 until they return to their maximum HP.An unconscious Sinner cannot do
