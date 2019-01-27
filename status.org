@@ -10,6 +10,7 @@ follows.
 - Power Swing: Whenever the target uses a Basic Attack, they deal 1
   additional Physical damage to their target.
 - Unison: Target may use one 3-meter-or-less ability without spending meter.
+- Endure: Target survives KO with 1 HP.
 ** Negative Effects
 - Depressed: Any time the target taps Meter, they tap 1 additional point of
   Meter.
