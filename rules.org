@@ -29,8 +29,7 @@ has the following important figures:
   Nature, and Physical. All characters can use Physical damage in their basic
   attack, but your special attacks often use your Affinity's damage type.
   Physical is not a recommended Affinity, but you can choose it; again, talk
-  to your GM about it. If he agrees, you will reduce the cost of all Abilities
-  by one (see abilities.org for rules on creating abilities).
+  to your GM about it. If he agrees, you will gain 1 additional point of HP. 
 - An [Elemental Weakness]. Each character and Demon has a Weakness to one
   of the five elements. When struck by damage of the type it is weak to, a
   Demon will be stunned; similarly, a Sinner struck by damage they are weak
@@ -165,8 +164,8 @@ to your GM; he may decide that you're capped at six abilities, or that you may g
 When gaining a new Ability, bear these things in mind:
 - Abilities that work with each other are useful. If you have an ability that causes enemies
   to gain some form of token, you may want your new ability to interact with that token in some way.
-- If you already have several abilities that cost only a couple of points of Meter, you may 
-  want to gain an ability that costs more but hits harder. Similarly, if you've got several 
+- If you already have several abilities that tap only a couple of points of Meter, you may 
+  want to gain an ability that taps more but hits harder. Similarly, if you've got several 
   abilities that require large Meter usage, you may want something that can be used early in the battle.
 - Passive abilities can be very useful, and at later stages of the game your GM may allow you to 
   take direct stat increases like bonus HP or damage. You will probably want one or two passives to complement your active abilities.
