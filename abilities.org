@@ -43,7 +43,7 @@ elemental type, to one target. It would cost two Meter to cast, if it stopped
 there. However, the part immediately following "If" is *conditional*--it only
 happens "If the target is Knocked Down".
 
-*Everything within that sentence costs half as much as it would otherwise.*
+*Everything within that sentence costs half as much as it would otherwise, rounded down.*
 
 Thus, the ability costs 3 Meter to cast--2 for the first part, and (2 divided
 by 2) 1 for the second part. However, the second part only triggers if the
@@ -73,3 +73,12 @@ adding the line "Where X is equal to (thing to replace X with)":
   number of Willpower tokens you have.
 By combining Tokens, Ifs, and Xs, you can create a wide variety of abilities
 that are specialized and unique.
+
+* Passive Abilities
+Passive abilities use a similar cost scale to Active abilities, with a few key differences:
+- They have an additional base cost of 2, added to the cost of the ability (before multipliers, of course).
+- Instead of being *activated*, they are *triggered* by a conditional. The trigger for a passive ability does not halve its cost.
+
+Passive abilities can trigger on many different conditions, such as damage to yourself, damage of a certain elemental type, 
+or anything else that can be used in a conditional. The only exception is that *you cannot use passives to modify your basic attack*.
+Passives which use your own basic attack as a conditional are not allowed.
