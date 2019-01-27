@@ -81,8 +81,8 @@ On the Mainbeat, Sinners may act in any order. It is recommended that you
 discuss among yourselves to choose a turn order, as it can be important.
 When your Sinner acts, he or she may:
 - Perform a Basic Attack. Unless modified by a Weapon or Ability, it deals 1
-  Physical damage to 1 target and costs 1 Meter.
-- Use an Ability. This may require you to 'tap' a certain amount of Meter.
+  Physical damage to 1 target and taps 1 Meter.
+- Use an Ability. This requires you to 'tap' a certain amount of Meter.
   The party as a whole may only tap an amount of Meter up to the Meter's
   current maximum each turn; however, the Meter is replenished to its maximum
   each turn.
