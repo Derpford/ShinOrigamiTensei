@@ -11,6 +11,9 @@ Active abilities have a *cost*. This cost is determined by what the ability does
 - Adding a positive effect to an enemy target: -1 points, -1 per additional turn
 - Adding a negative effect to yourself: -1 points, -1 per additional turn
 - Adding a Strange effect to any target: +1 points, +1 per additional turn
+** Summoning
+- Summon Ally: Sacrifice X+2 Meter, where X is ally's HP
+
 ** Conditionals
 - Add a token to targets: +1 point
 - If: Reduce cost of all things affected by an "If"
@@ -23,6 +26,9 @@ Active abilities have a *cost*. This cost is determined by what the ability does
 - Damage Self: -1 per point of damage
 - Take damage equal to your HP minus 1: -3
 - KO Self: 1/4 cost
+** Delays
+- Call attack on opponent's turn: 1/2 cost
+- Delay effect: -2 per turn
 ** Target
 - Single Target: x1 (base cost)
 - Multi Target, Conditional (i.e., "One of each type of enemy" or "All enemies which have a ____ token"): x2 points
